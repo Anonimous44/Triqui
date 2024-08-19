@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Triqui.MainPage">
+
+    <StackLayout Padding="10">
+        <!-- Entradas de nombre de los jugadores -->
+        <Entry x:Name="player1Entry" Placeholder="Nombre del Jugador 1" />
+        <Entry x:Name="player2Entry" Placeholder="Nombre del Jugador 2" />
+
+        <!-- Botón para iniciar el juego -->
+        <Button Text="Iniciar Juego" Clicked="StartGame_Clicked" />
+
+        <!-- Grid del juego -->
+        <Grid Padding="10" RowSpacing="10" ColumnSpacing="10" IsVisible="False" x:Name="gameGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Botones para el juego -->
+            <Button Grid.Row="0" Grid.Column="0" x:Name="btn00" Clicked="Button_Clicked"/>
+            <Button Grid.Row="0" Grid.Column="1" x:Name="btn01" Clicked="Button_Clicked"/>
+            <Button Grid.Row="0" Grid.Column="2" x:Name="btn02" Clicked="Button_Clicked"/>
+
+            <Button Grid.Row="1" Grid.Column="0" x:Name="btn10" Clicked="Button_Clicked"/>
+            <Button Grid.Row="1" Grid.Column="1" x:Name="btn11" Clicked="Button_Clicked"/>
+            <Button Grid.Row="1" Grid.Column="2" x:Name="btn12" Clicked="Button_Clicked"/>
+
+            <Button Grid.Row="2" Grid.Column="0" x:Name="btn20" Clicked="Button_Clicked"/>
+            <Button Grid.Row="2" Grid.Column="1" x:Name="btn21" Clicked="Button_Clicked"/>
+            <Button Grid.Row="2" Grid.Column="2" x:Name="btn22" Clicked="Button_Clicked"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

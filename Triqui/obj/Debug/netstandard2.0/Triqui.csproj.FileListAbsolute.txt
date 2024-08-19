@@ -1,0 +1,15 @@
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.csproj.AssemblyReference.cache
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.AssemblyInfoInputs.cache
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.AssemblyInfo.cs
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.csproj.CoreCompileInputs.cache
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.dll
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\refint\Triqui.dll
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\Triqui.pdb
+C:\Users\NewCompte\source\repos\Triqui\Triqui\bin\Debug\netstandard2.0\Triqui.deps.json
+C:\Users\NewCompte\source\repos\Triqui\Triqui\bin\Debug\netstandard2.0\Triqui.dll
+C:\Users\NewCompte\source\repos\Triqui\Triqui\bin\Debug\netstandard2.0\ref\Triqui.dll
+C:\Users\NewCompte\source\repos\Triqui\Triqui\bin\Debug\netstandard2.0\Triqui.pdb
+C:\Users\NewCompte\source\repos\Triqui\Triqui\obj\Debug\netstandard2.0\XamlC.stamp

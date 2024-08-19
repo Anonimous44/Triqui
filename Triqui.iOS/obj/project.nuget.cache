@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kSdTc7LbOY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NewCompte\\source\\repos\\Triqui\\Triqui.iOS\\Triqui.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NewCompte\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\NewCompte\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\NewCompte\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
